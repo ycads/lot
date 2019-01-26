@@ -17,13 +17,13 @@
                         <key>lot</key>
                         <string>display-image</string>
                         <key>url</key>
-                        <string>57.png</string>
+                        <string>https://github.com/ycads/lot/raw/master/57.png</string>
                     </dict>
                     <dict>
                         <key>lot</key>
                         <string>full-size-image</string>
                         <key>url</key>
-                        <string>512.png</string>
+                        <string>https://github.com/ycads/lot/raw/master/512.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
